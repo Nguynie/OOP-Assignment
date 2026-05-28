@@ -1,42 +1,17 @@
-# Your Name
+# Nguyễn Ngọc Phúc Nguyên
 
-**Contact:** [email@example.com](mailto:email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Contact:** [phucnguyen.7a3@gmail.com](mailto:phucnguyen.7a3@gmail.com) | [GitHub](https://github.com/Nguynie)
 
 ---
 
 ## Education
 
-### University Name — *Degree* (Start Year – End Year)
-- Relevant coursework: ...
-- GPA: ...
-- Honors/Awards: ...
+### HCMUS, VNU-HCM — *Bachelor of Information Technology* (2025 – 2029)
 
 ## Skills
 
-- **Languages:** ...
-- **Frameworks/Tools:** ...
-- **Other:** ...
-
-## Projects
-
-### Project Title — *Brief description*
-- Key technologies used
-- What you accomplished
-- Link to repo or demo
-
-### Project Title — *Brief description*
-- Key technologies used
-- What you accomplished
-
-## Experience
-
-### Company Name — *Position* (Start – End)
-- Responsibility / achievement
-- Responsibility / achievement
-
-## Activities & Leadership
-
-- Club / organization — *Role*
+- **Languages:** C++, Python, Rust
+- **Tools:** Linux
 
 ---
 
